@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right top, #92fe9d, #00c9ff);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.glass{
+    background: white;
+    min-height: 80vh;
+    width: 60%;
+}
