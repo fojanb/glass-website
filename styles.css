@@ -110,9 +110,9 @@ p {
 }
 
 .pro {
-  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+  background-image: linear-gradient(to right, #d0ffd4 , #70d5f1);
   border-radius: 2rem;
-  color: white;
+  color: #0280a3;
   padding: 1rem;
   position: relative;
 }
@@ -123,7 +123,7 @@ p {
 }
 .pro > h2 {
   width: 40%;
-  color: white;
+  color: #0280a3;
   font-weight: 600;
 }
 /* GAMES */
@@ -164,7 +164,7 @@ p {
   box-shadow: 6px 6px 20px rgba(85, 85, 85, 0.3);
 }
 .progress-bar {
-  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+  background-image: linear-gradient(to right, #a8fcb0 0%, #33cdf8 100%);
   width: 100%;
   height: 25%;
   border-radius: 1rem;
