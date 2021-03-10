@@ -55,18 +55,18 @@ h3 {
     rgba(255, 255, 255, 1),
     rgba(255, 255, 255, 0.2)
   );
-  width: 20rem;
-  height: 20rem;
+  width: 15rem;
+  height: 15rem;
   position: absolute;
   border-radius: 50%;
-  top: 5%;
+  top: 15%;
   right: 15%;
   opacity: 0.8;
   box-shadow: 6px 6px 20px rgba(85, 85, 85, 0.3);
 }
 .circle2 {
-  bottom: 5%;
-  left: 10%;
+  bottom: -35%;
+  left: 12%;
   opacity: 0.8;
   background: white;
   background: linear-gradient(
@@ -74,8 +74,8 @@ h3 {
     rgba(255, 255, 255, 0.2),
     rgba(255, 255, 255, 1)
   );
-  width: 20rem;
-  height: 20rem;
+  width: 15rem;
+  height: 15rem;
   position: absolute;
   border-radius: 50%;
   box-shadow: 6px 6px 20px rgba(85, 85, 85, 0.3);
